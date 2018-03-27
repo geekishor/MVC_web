@@ -1,0 +1,164 @@
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\ApplicationInsights.config
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\csc.exe
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\vbc.exe
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\VBCSCompiler.exe
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\MVC_web.dll.config
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\MVC_web.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\MVC_web.pdb
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Antlr3.Runtime.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\EntityFramework.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\EntityFramework.SqlServer.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.Web.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.ApplicationInsights.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Newtonsoft.Json.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Owin.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Helpers.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Mvc.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Optimization.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Razor.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.WebPages.Deployment.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.WebPages.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.WebPages.Razor.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\WebGrease.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.Web.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.ApplicationInsights.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Helpers.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Mvc.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Optimization.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.Razor.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.WebPages.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.WebPages.Deployment.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\System.Web.WebPages.Razor.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Antlr3.Runtime.pdb
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Newtonsoft.Json.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\EntityFramework.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\EntityFramework.SqlServer.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\obj\Debug\MVC_web.csprojResolveAssemblyReference.cache
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\obj\Debug\MVC_web.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\MVC_web\MVC_web\obj\Debug\MVC_web.pdb
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\ApplicationInsights.config
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\csc.exe
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\vbc.exe
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\MVC_web.dll.config
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\MVC_web.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\MVC_web.pdb
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Antlr3.Runtime.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\EntityFramework.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.DependencyCollector.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.Web.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.WindowsServer.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.ApplicationInsights.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Newtonsoft.Json.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Owin.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Helpers.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Mvc.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Optimization.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Razor.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.WebPages.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\WebGrease.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.Web.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.ApplicationInsights.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Helpers.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Mvc.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Optimization.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.Razor.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.WebPages.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Antlr3.Runtime.pdb
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Newtonsoft.Json.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\EntityFramework.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.NET MVC\MVC_web\MVC_web\obj\Debug\MVC_web.csprojResolveAssemblyReference.cache
+D:\ASP.NET MVC\MVC_web\MVC_web\obj\Debug\MVC_web.dll
+D:\ASP.NET MVC\MVC_web\MVC_web\obj\Debug\MVC_web.pdb
